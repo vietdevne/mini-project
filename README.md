@@ -1,0 +1,3 @@
+- CRUD sản phẩm
+- Session khi đăng nhập
+- account: "admin", passowrd: "admin"
